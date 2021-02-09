@@ -1,0 +1,5 @@
+micronaut:
+  application:
+    name: httpClientFilter
+  server:
+    port: 8088
